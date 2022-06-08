@@ -1,2 +1,0 @@
-# movielistApplication
-Created with CodeSandbox
